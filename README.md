@@ -17,4 +17,4 @@ This project is machine leanring model used for predicting user’s next purchas
 2.	The model is based on transformer architecture (multi-head self-attention mechanism) to learn user action representation.
 
 
-![result](/images/results.png)
+![result](/images/results.PNG)
