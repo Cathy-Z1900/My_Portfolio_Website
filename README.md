@@ -2,6 +2,7 @@
 
 [Project 1: User next purchase prediction](https://github.com/Cathy-Z1900/User-next-purchase-prediction)
 -------------------------------------------------------------------------------------------------------
+Please click the link to explore more details about the project.<br>
 
 This project is machine leanring model used for predicting user’s next purchase based on user’s individual features and item features.<br>
 
@@ -16,21 +17,17 @@ The data used in the project is from e-commerce public datasets, inlcuding,<br>
 
 The model is based on transformer architecture (multi-head self-attention mechanism) to learn user action representation.<br>
 
-<p float="left">
-    <img src="https://github.com/Cathy-Z1900/My_Portfolio_Website/blob/main/images/transformerall.jpg" width="250"/> <img src="https://github.com/Cathy-Z1900/My_Portfolio_Website/blob/main/images/position_encode.jpg" width="400"/></center>
-</p>
-
-**3. Data visualization** <br>
-Tsne: User activity features dimension reduction<br>
-    <img src="https://github.com/Cathy-Z1900/My_Portfolio_Website/blob/main/images/TSE_dynamic.jpeg" width="400"/>
-
-Heatmap: User features and purchase intention probability
-<p float="left">
-    <img src="https://github.com/Cathy-Z1900/My_Portfolio_Website/blob/main/images/age_gender_pro.jpeg" width="300"/> <img src="https://github.com/Cathy-Z1900/My_Portfolio_Website/blob/main/images/loc_oc_pro.jpeg" width="400"/></center>
-</p>
-
 **4. results: MSE, RMSE** <br>
-<p float="left">
-    <img src="https://github.com/Cathy-Z1900/My_Portfolio_Website/blob/main/images/mse.jpg" width="400"/> <img src="https://github.com/Cathy-Z1900/My_Portfolio_Website/blob/main/images/rmse.jpg" width="400"/></center>
-</p>
 
+This project is used to perform aspect-based sentiment analysis using public dataset from Amazon user review. It helps to extract user opinion according to different topics of user review.
+
+
+[Project 2: Aspect-based sentiment analysis](https://github.com/Cathy-Z1900/NLP-task-user-reviews)
+-------------------------------------------------------------------------------------------------------
+
+Please click the link to explore more details about the project.<br>
+ **1. Data preprocessing** <br>
+Lowercase all the words in the review text; Remove numbers such as &, >, 3; Remove the punctuation, such as, : ,;{}, [], &, >; Remove the stop words, such as “a”, “the”, “it”, “about”; Tokenize the words; Lemmatize to the words <br>
+**2. Topic modeling: aspects extraction** <br>
+**3. Dependency parsing** <br>
+**4. Sentiment analysis** <br>
