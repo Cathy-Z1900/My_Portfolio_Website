@@ -1,5 +1,5 @@
 # My_Portfolio_Website
-Cathy's Data Science portfolio: data modeling, feature engineering, machine learning,AI solution, data analysis, prediction, data visualization
+Cathy's Data Science portfolio: data modeling, feature engineering, machine learning, AI solution, data analysis, prediction, data visualization
 
 
 
