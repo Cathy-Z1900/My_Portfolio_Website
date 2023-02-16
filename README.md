@@ -1,4 +1,7 @@
 # My_Portfolio_Website
+Cathy's Data Science portfolio: data modeling, feature engineering, machine learning,AI solution, data analysis, prediction, data visualization
+
+
 
 [Project 1: User next purchase prediction](https://github.com/Cathy-Z1900/User-next-purchase-prediction)
 -------------------------------------------------------------------------------------------------------
